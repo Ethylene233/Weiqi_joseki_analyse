@@ -6,15 +6,15 @@
 
 ### 📜文件内容：
 
-download.py：批量爬取gokifu.com网站上的公开棋谱数据；
+ - download.py：批量爬取gokifu.com网站上的公开棋谱数据；
 
-analyse.py：批量调用weiqi-joseki数据库中现有代码命令行提取统计某一年的定式数据；
+ - analyse.py：批量调用weiqi-joseki数据库中现有代码命令行提取统计某一年的定式数据；
 
-main.py：指定需要分析的年份数据并保存结果为.csv和.json格式；
+ - main.py：指定需要分析的年份数据并保存结果为.csv和.json格式；
 
-figure.py：根据结果生成折线统计图；
+ - figure.py：根据结果生成折线统计图；
 
-go_opening_freq_trend.png：2006年至2026年定式使用频率统计结果；
+ - go_opening_freq_trend.png：2006年至2026年定式使用频率统计结果；
 
-results：存放含统计结果的各.csv和.json文件。
+ - results：存放含统计结果的各.csv和.json文件。
 
